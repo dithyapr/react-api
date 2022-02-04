@@ -1,0 +1,25 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "Aditya",
+            "alamat": "Jakarta",
+            "umur": 18,
+            "email": "aditya@gmail.com"
+          },
+          {
+            "id": 2,
+            "nama": "Amin",
+            "alamat": "Jombang",
+            "umur": 18,
+            "email": "amin@gmail.com"
+          },
+          {
+            "id": 3,
+            "nama": "Putri",
+            "alamat": "Blitar",
+            "umur": 18,
+            "email": "putri@gmail.com"
+          }
+    ]
+  }
