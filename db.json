@@ -20,6 +20,13 @@
             "alamat": "Blitar",
             "umur": 18,
             "email": "putri@gmail.com"
+          },
+          {
+            "id": 4,
+            "nama": "Siska",
+            "alamat": "Tegal",
+            "umur": 18,
+            "email": "siska@gmail.com"
           }
     ]
   }
